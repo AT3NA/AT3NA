@@ -12,10 +12,8 @@ You can use the website to generate badges: https://shields.io/
 
 # MY STATUS
 
-![At3na's github stats](https://github-readme-stats.vercel.app/api?username=ATH3NA&show_icons=true&theme=midnight-purple)
+![At3na's github stats](https://github-readme-stats.vercel.app/api?username=AT3NA&show_icons=true&theme=midnight-purple)
 - ![Profile views](https://gpvc.arturio.dev/AT3NA)
-- [![GitHub followers](https://img.shields.io/AT3NA/followers/at3na.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/at3na?tab=followers)
+## 🍁 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/system_img) <br>
 
-
-## 🍁 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/system_img) 
-<br>
+AND I LOVE WIFU'S <br>
