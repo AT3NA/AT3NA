@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey, I am AT3NA(HARAJIT) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**AT3NA/AT3NA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://t.me/system_img"><img align='centre' src='https://te.legra.ph/file/c24d456a09e0dcbf51519.jpg' width='300"'> </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AT3NA)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Unofficial: harajithub@gmail.com)
+&nbsp;
+
+# MY STATUS
+
+![At3na's github stats](https://github-readme-stats.vercel.app/api?username=ATH3NA&show_icons=true&theme=midnight-purple)
+- ![Profile views](https://gpvc.arturio.dev/AT3NA)
+- [![GitHub followers](https://img.shields.io/AT3NA/followers/at3na.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/at3na?tab=followers)
+
+
+## 🍁 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/system_img) 
+<br>
