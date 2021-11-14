@@ -1,6 +1,6 @@
 # Hey, I am AT3NA(HARAJIT) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<a href="https://t.me/system_img"><img align='centre' src='https://te.legra.ph/file/c24d456a09e0dcbf51519.jpg' width='300"'> </a>
+<a href="https://t.me/system_img"><img align='centre' src='https://telegra.ph/file/620c88180f42a04849086.jpg' width='300"'> </a>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
