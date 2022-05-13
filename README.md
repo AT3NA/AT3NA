@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/at3na?logo=github&style=for-the-bad
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/at3na/https://github.com/AT3NA/mikasabot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=at3na&repo=https://github.com/AT3NA/mikasabot&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AT3NA/mikasabot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=at3na&repo=https://github.com/AT3NA/mikasabot&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
