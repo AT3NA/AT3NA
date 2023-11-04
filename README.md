@@ -1,4 +1,4 @@
-# Hey, I am AT3NA(HARAJIT) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey, I am AT3NA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <a href="https://t.me/system_img"><img align='centre' src='https://telegra.ph/file/b0b901dab450bb0919c81.jpg' width='300"'> 
 ========================
